@@ -13,7 +13,7 @@ namespace NodeAttachmentIssuesHotline
 	{
 		public override string Name => "NodeAttachmentIssuesHotline";
 		public override string Author => "Nytra";
-		public override string Version => "2.0.0";
+		public override string Version => "2.0.1";
 		public override string Link => "https://github.com/Nytra/ResoniteNodeAttachmentIssuesHotline";
 
 		public static ModConfiguration Config;
